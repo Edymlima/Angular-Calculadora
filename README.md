@@ -10,5 +10,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * TypeScript
 * JavaScript
 * CSS
+* Bootstrap vs4.0
 
 
